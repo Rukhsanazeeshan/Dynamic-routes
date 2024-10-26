@@ -1,5 +1,5 @@
-export type CountryDetails={
-    name:string
-    population:number
-    capital:string
+export type CountryDetails = {
+    name: string ;
+    capital: string ;
+    population: number ;
 }

@@ -6,12 +6,8 @@ import Nav from "../components/Nav";
     children: React.ReactNode;
   }>) {
     return (
-      
-        <body className="bg-teal-300">
+        <body>
           <Nav/>
-
-         
-        
           {children}
         </body>
      
